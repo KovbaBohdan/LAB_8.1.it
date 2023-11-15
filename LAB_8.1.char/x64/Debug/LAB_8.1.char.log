@@ -1,4 +1,3 @@
 ﻿  char.cpp
-C:\Student\LAB_8.1.char\LAB_8.1.char\char.cpp(8,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Student\LAB_8.1.char\LAB_8.1.char\char.cpp(27,18): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Student\LAB_8.1.char\LAB_8.1.char\char.cpp(16,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
   LAB_8.1.char.vcxproj -> C:\Student\LAB_8.1.char\x64\Debug\LAB_8.1.char.exe

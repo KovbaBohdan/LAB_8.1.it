@@ -1,0 +1,3 @@
+﻿  UnitTest1.cpp
+C:\Student\LAB_8.1.char\LAB_8.1.char\char.cpp(16,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  UnitTest1.vcxproj -> C:\Student\LAB_8.1.char\x64\Debug\UnitTest1.dll
